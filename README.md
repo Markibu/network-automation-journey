@@ -1,22 +1,31 @@
-# network-automation-journey
-My journey from NOC analyst to Network Automation Engineer.
-
-## I'm currently learning:
-
-CCNA
-Python
-Git & GitHub
+# Network Automation Journey
+## Current Focus
 Network Automation
 
-## Goals
+Infrastructure Monitoring
 
-Build automation projects
-Improve networking knowledge
-Understand APIs and integrations
+Python Development
 
-## Learning Log
+Operational Tooling
 
-20 October
-Created GitHub account so I can document my journey
-Created Network Automation Journey repository
-Started planning learning roadmap
+API Integrations
+
+CCNA Studies
+
+## Building technical capability in:
+Automation engineering
+
+Monitoring workflows
+
+Network operations
+
+System integrations
+
+## Projects
+Operational Tooling
+
+Network Utilities
+
+API Integration Lab
+
+Monitoring & Alerting Research
